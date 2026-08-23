@@ -1,5 +1,5 @@
-# evaluacion-LMS
-# 🎓 Evaluación Comparativa Profesional de Plataformas LMS
+# Proyecto Final
+# 🎓 Curso - Introducción a la Inteligencia Artificial
 
 > **Asignatura:** Enseñanza y Aprendizaje en Línea<br>
 > **Universidad:** Universidad Tecnológica OTEIMA<br>
