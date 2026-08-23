@@ -1,2 +1,10 @@
-# Grupo_Sigma_IA
-Fundamentos conceptuales, históricos y prácticos de la Inteligencia Artificial.
+# evaluacion-LMS
+# 🎓 Evaluación Comparativa Profesional de Plataformas LMS
+
+> **Asignatura:** Enseñanza y Aprendizaje en Línea<br>
+> **Universidad:** Universidad Tecnológica OTEIMA<br>
+> **Docente:** Briseida Cruz<br>
+> **Equipo de Investigación:** Sigma _"Líderes en la integración de tecnologías emergentes para impulsar la innovación y el cambio educativo."_<br>
+> **Estudiantes:** Anayttee Rodríguez - Maribel Mendoza - Pedro Corrales - Luis Vega<br>
+> **Fecha:** 26/7/2026
+---
